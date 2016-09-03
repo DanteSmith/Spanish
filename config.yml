@@ -243,9 +243,18 @@ Crafts:
 # When the player dies.
 Deaths:
   '1':
-    Message: The first time you died!
+    Message: Tu primera muerte!
     Name: deaths_1
-    DisplayName: Rest in Peace
+    DisplayName: Descansa en paz
+  '7':
+    Message: Has muerto 7 veces!
+    Name: deaths_7
+    DisplayName: El gato!
+    Reward: fish 1
+  '1000':
+    Message: Has muerto 1000 veces!
+    Name: deaths_1000
+    DisplayName: Nooooob
     
 # When an arrow is shot.
 Arrows:
