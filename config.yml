@@ -405,16 +405,52 @@ DistanceHorse:
 # When a distance is traveled in a minecart.
 DistanceMinecart:
   '100':
-    Message: You traveled 100 blocks in a minecart!
+    Message: Has recorrido 100 bloques en vagoneta!
     Name: distanceminecart_100
-    DisplayName: Carting Fan
+    DisplayName: Aficionado a los coches
+  '500':
+    Message: Has recorrido 500 bloques en vagoneta!
+    Name: distanceminecart_500
+    DisplayName: '&6Chu-chu!'
+  '1000':
+    Message: Has recorrido 1000 bloques en vagoneta!
+    Name: distanceminecart_1000
+    DisplayName: '&6Montaña Rusa!'
+  '3000':
+    Message: Has recorrido 3000 bloques en vagoneta!
+    Name: distanceminecart_3000
+    DisplayName: '&6Traansiberiano.'
+  '10000':
+    Message: '&9Has recorrido 10000 bloques en vagoneta!'
+    Name: distanceminecart_10000
+    DisplayName: '&6El Orient Express!'
+  '50000':
+    Message: '&5Has recorrido 50000 bloques en vagoneta!'
+    Name: distanceminecart_50000
+    DisplayName: '&5El tren de la bruja!'
 
 # When a distance is traveled in a boat.
 DistanceBoat:
   '200':
-    Message: You traveled 200 blocks in a boat!
+    Message: Has recorrido 200 bloques en barca!
     Name: distanceboat_200
-    DisplayName: Great Sailor
+    DisplayName: Gran Navegante
+  '1000':
+    Message: Has recorrido 1000 bloques en barca!
+    Name: distanceboat_1000
+    DisplayName: '&2Piratas del Caribe'
+  '5000':
+    Message: Has recorrido 5000 bloques en barca!
+    Name: distanceboat_5000
+    DisplayName: '&2Lobo de mar!'
+  '20000':
+    Message: '&aHas recorrido 20000 bloques en barca!'
+    Name: distanceboat_20000
+    DisplayName: '&2Capitan Nemo!'
+  '100000':
+    Message: '&5Has recorrido 100000 bloques en barca!'
+    Name: distanceboat_100000
+    DisplayName: '&5Vida en la mar!'
 
 # When a distance is traveled with elytra.
 # (ignored on Minecraft versions prior to 1.9)
