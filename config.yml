@@ -397,6 +397,10 @@ DistancePig:
     
 # When a distance is traveled on a horse.
 DistanceHorse:
+  '100':
+    Message: Has viajado 100 bloques en caballo!
+    Name: distancehorse_100
+    DisplayName: '&1P&2e&3q&4u&5e&6ñ&7o &8P&9o&0n&ay!'
   '500':
     Message: You traveled 500 blocks on a horse!
     Name: distancehorse_500
