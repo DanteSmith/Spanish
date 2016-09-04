@@ -245,30 +245,50 @@ Deaths:
   '1':
     Message: Tu primera muerte!
     Name: deaths_1
-    DisplayName: Descansa en paz
+    DisplayName: Descansa en paz.
   '7':
     Message: Has muerto 7 veces!
     Name: deaths_7
     DisplayName: El gato!
     Reward: fish 1
+  '20':
+    Message: Has muerto 20 veces!
+    Name: deaths_20
+    DisplayName: Lazaro, levantate y anda!
+  '50':
+    Message: Has muerto 50 veces!
+    Name: deaths_50
+    DisplayName: El dia de la marmota.
+  '100':
+    Message: Has muerto 100 veces!
+    Name: deaths_100
+    DisplayName: Centenario.
+  '200':
+    Message: Has muerto 200 veces!
+    Name: deaths_200
+    DisplayName: El mejor... muriendo!
+  '500':
+    Message: Has muerto 500 veces!
+    Name: deaths_500
+    DisplayName: Manco!
   '1000':
     Message: Has muerto 1000 veces!
     Name: deaths_1000
-    DisplayName: Nooooob
+    DisplayName: Nooooob!
     
 # When an arrow is shot.
 Arrows:
   '50':
-    Message: '50 arrows shot!'
+    Message: '50 flechas lanzadas!'
     Name: arrows_50
-    DisplayName: Arrows Around the Place
+    DisplayName: Flechas por todos lados
     
 # When a snowball is thrown.  
 Snowballs:
   '1000':
     Message: '1000 snowballs thrown. That''s the spirit!'
     Name: snowballs_1000
-    DisplayName: Winter Addict 
+    DisplayName: Sueltalooo, sueltalooo! 
     
 # When an egg is thrown.  
 Eggs:
