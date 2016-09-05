@@ -384,16 +384,56 @@ PlayedTime:
 # When a distance is traveled by foot.
 DistanceFoot:
   '1000':
-    Message: You traveled 1000 blocks by foot!
+    Message: Has viajado 1000 bloques a pie!
     Name: distancefoot_1000
-    DisplayName: Big Walker 
+    DisplayName: Gran Caminante
+  '15000':
+    Message: Has viajado 15000 bloques a pie!
+    Name: distancefoot_15000
+    DisplayName: '&1Caminante, no hay camino!'
+  '42195':
+    Message: '&6Has viajado 42195 bloques a pie!'
+    Name: distancefoot_1000
+    DisplayName: '&1La Maratón!'
+  '100000':
+    Message: Has viajado 100000 bloques a pie!
+    Name: distancefoot_100000
+    DisplayName: '&1¿A donde vas?'
+  '200000':
+    Message: Has viajado 200000 bloques a pie!
+    Name: distancefoot_200000
+    DisplayName: '&1Dolor de pies!'
+  '500000':
+    Message: Has viajado 100000 bloques a pie!
+    Name: distancefoot_500000
+    DisplayName: '&1El Peregrino!'
+  '1000000':
+    Message: '&6Has viajado 1 millon de bloques a pie!'
+    Name: distancefoot_1000000
+    DisplayName: '&1Paseo ligero.'
+  '2000000':
+    Message: '&5Has viajado 2 millon de bloques a pie!'
+    Name: distancefoot_2000000
+    DisplayName: '&5The Walking Life'
     
 # When a distance is traveled on a pig.
 DistancePig:
   '100':
-    Message: You traveled 100 blocks on a pig!
+    Message: Has viajado 100 bloques en cerdo!
     Name: distancepig_100
-    DisplayName: Carrot on a Stick Master
+    DisplayName: Maestro de la zanahoria en el palo
+  '500':
+    Message: Has viajado 500 bloques en cerdo!
+    Name: distancepig_500
+    DisplayName: '&dA 4 patas!'
+  '1500':
+    Message: Has viajado 1500 bloques en cerdo!
+    Name: distancepig_1500
+    DisplayName: '&dEl Cerdito Valiente!'
+  '2500':
+    Message: '&5Has viajado 2500 bloques en cerdo!'
+    Name: distancepig_2500
+    DisplayName: '&5Spidercerdo!'
     
 # When a distance is traveled on a horse.
 DistanceHorse:
@@ -402,9 +442,25 @@ DistanceHorse:
     Name: distancehorse_100
     DisplayName: '&1P&2e&3q&4u&5e&6ñ&7o &8P&9o&0n&ay!'
   '500':
-    Message: You traveled 500 blocks on a horse!
+    Message: Has viajado 500 bloques en caballo!
     Name: distancehorse_500
-    DisplayName: The Avener
+    DisplayName: '&cLlanero Solitario'
+  '5000':
+    Message: Has viajado 5000 bloques en caballo!
+    Name: distancehorse_5000
+    DisplayName: '&cEl Centauro!'
+  '10000':
+    Message: '&6Has viajado 10000 bloques en caballo!'
+    Name: distancehorse_10000
+    DisplayName: '&cAdicto al Caballo!'
+  '25000':
+    Message: '&6Has viajado 25000 bloques en caballo!'
+    Name: distancehorse_25000
+    DisplayName: '&cCorre Perdigón!'
+  '100000':
+    Message: '&5Has viajado 100000 bloques en caballo!'
+    Name: distancehorse_100000
+    DisplayName: '&5Pegaso!'
     
 # When a distance is traveled in a minecart.
 DistanceMinecart:
