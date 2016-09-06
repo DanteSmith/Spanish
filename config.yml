@@ -413,7 +413,7 @@ DistanceFoot:
     DisplayName: '&1Caminante, no hay camino!'
   '42195':
     Message: '&6Has viajado 42195 bloques a pie!'
-    Name: distancefoot_1000
+    Name: distancefoot_42195
     DisplayName: '&1La Maratón!'
   '100000':
     Message: Has viajado 100000 bloques a pie!
