@@ -655,9 +655,25 @@ Fireworks:
 # When a music disc is played.
 MusicDiscs:
   '1':
-    Message: One jukebox used!
+    Message: Has usado una caja de musica!
     Name: musicdiscs_1
-    DisplayName: DJ
+    DisplayName: '&2DJ'
+  '5':
+    Message: Has puesto 5 discos!
+    Name: musicdiscs_5
+    DisplayName: '&2Guateque'
+  '15':
+    Message: Has puesto 15 discos!
+    Name: musicdiscs_15
+    DisplayName: '&2Fiebre del Sabado Noche'
+  '50':
+    Message: '&eHas puesto 50 discos!'
+    Name: musicdiscs_50
+    DisplayName: '&2Spotify'
+  '100':
+    Message: '&5Has puesto 100 discos!'
+    Name: musicdiscs_100
+    DisplayName: '&5Molestando a los Vecinos'
 
 # When a player teleports with an enderpearl.
 EnderPearls:
