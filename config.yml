@@ -363,9 +363,25 @@ Beds:
 # Maximum level reached.    
 MaxLevel:  
   '10':
-    Message: Level 10 reached!
+    Message: Has alcanzado el nivel 10!
     Name: maxlevel_10
-    DisplayName: '&4Rookie'  
+    DisplayName: '&4Novato'
+  '30':
+    Message: Has alcanzado el nivel 30!
+    Name: maxlevel_30
+    DisplayName: '&4Experto' 
+  '50':
+    Message: Has alcanzado el nivel 50!
+    Name: maxlevel_50
+    DisplayName: '&4Vamo a Calmarno' 
+  '75':
+    Message: '&6Has alcanzado el nivel 75!'
+    Name: maxlevel_75
+    DisplayName: '&4Desnivel de nivel' 
+  '100':
+    Message: '&5Has alcanzado el nivel 100!'
+    Name: maxlevel_100
+    DisplayName: '&5It's Over 9000!' 
     
 # When a potion is consumed.
 ConsumedPotions:
