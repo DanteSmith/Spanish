@@ -377,9 +377,17 @@ ConsumedPotions:
 # Amount of time played on the server (in hours, use integers).
 PlayedTime:
   '1':
-    Message: You played during one hour on the server!
+    Message: Has jugado durante una hora en Vaasgard!
     Name: playedtime_1
-    DisplayName: First Hour
+    DisplayName: Primera Hora
+  '24':
+    Message: Has jugado durante 24 horas en Vaasgard!
+    Name: playedtime_24
+    DisplayName: Todo un dia!
+  '168':
+    Message: Has jugado durante una semana en Vaasgard!
+    Name: playedtime_24
+    DisplayName: Todo un dia!
     
 # When a distance is traveled by foot.
 DistanceFoot:
