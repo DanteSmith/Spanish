@@ -369,10 +369,34 @@ MaxLevel:
     
 # When a potion is consumed.
 ConsumedPotions:
+  '1':
+    Message: Has bebido una pocion...
+    Name: consumedpotions_1
+    DisplayName: Primer trago!
+  '20':
+    Message: Has bebido una pocion...
+    Name: consumedpotions_20
+    DisplayName: Primer trago!
   '100':
-    Message: Drinking weird beverages all the time...
+    Message: Has bebido 100 pociones...
     Name: consumedpotions_100
-    DisplayName: Alcoholic 
+    DisplayName: '&eAlcoholico'
+  '300':
+    Message: Has bebido 300 pociones...
+    Name: consumedpotions_300
+    DisplayName: '&eNo conduzcas'
+  '1000':
+    Message: '&6Has bebido 1000 pociones...'
+    Name: consumedpotions_1000
+    DisplayName: '&eHomer Simpson!'
+  '2222':
+    Message: Has bebido 2222 pociones...
+    Name: consumedpotions_2222
+    DisplayName: '&eVeo doble!'
+  '5000':
+    Message: '&5Has bebido 5000 pociones...'
+    Name: consumedpotions_5000
+    DisplayName: '&5Sin sed!'
     
 # Amount of time played on the server (in hours, use integers).
 PlayedTime:
