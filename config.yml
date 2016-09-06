@@ -381,7 +381,7 @@ MaxLevel:
   '100':
     Message: '&5Has alcanzado el nivel 100!'
     Name: maxlevel_100
-    DisplayName: '&5It's Over 9000!' 
+    DisplayName: '&5Its Over 9000!' 
     
 # When a potion is consumed.
 ConsumedPotions:
@@ -647,10 +647,34 @@ Brewing:
     
 # When a firework is launched.
 Fireworks:
+  '1':
+    Message: Has lanzado fuegos artificiales!
+    Name: fireworks_1
+    DisplayName: Chupinazo!
   '10':
-    Message: You launched 10 fireworks!
+    Message: Has lanzado 10 fuegos artificiales!
     Name: fireworks_10
-    DisplayName: Pyrotechnist
+    DisplayName: '&4Pirotecnico!'
+  '25':
+    Message: Has lanzado 25 fuegos artificiales!
+    Name: fireworks_25
+    DisplayName: '&4Oooooooh!'
+  '50':
+    Message: Has lanzado 50 fuegos artificiales!
+    Name: fireworks_50
+    DisplayName: '&4Cielo en Llamas!'
+  '100':
+    Message: Has lanzado 100 fuegos artificiales!
+    Name: fireworks_100
+    DisplayName: '&4Celebraciones Constantes!'
+  '500':
+    Message: '&6Has lanzado 500 fuegos artificiales!'
+    Name: fireworks_500
+    DisplayName: '&4Fiesta Mayor!'
+  '1000':
+    Message: '&5Has lanzado 1000 fuegos artificiales!'
+    Name: fireworks_1000
+    DisplayName: '&54 de Julio!'
 
 # When a music disc is played.
 MusicDiscs:
