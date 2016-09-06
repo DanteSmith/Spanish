@@ -381,13 +381,25 @@ PlayedTime:
     Name: playedtime_1
     DisplayName: Primera Hora
   '24':
-    Message: Has jugado durante 24 horas en Vaasgard!
+    Message: Llevas jugadas 24 horas en Vaasgard!
     Name: playedtime_24
-    DisplayName: Todo un dia!
+    DisplayName: '&0Todo un dia!'
   '168':
-    Message: Has jugado durante una semana en Vaasgard!
-    Name: playedtime_24
-    DisplayName: Todo un dia!
+    Message: Llevas jugada una semana en Vaasgard!
+    Name: playedtime_168
+    DisplayName: '&0De lunes a domingo!'
+  '360':
+    Message: Llevas jugados 15 dias en Vaasgard!
+    Name: playedtime_360
+    DisplayName: '&0Viciado!'
+  '720':
+    Message: '&6Llevas jugado 1 mes en Vaasgard!'
+    Name: playedtime_720
+    DisplayName: '&0Mas o menos un mes!'
+  '1440':
+    Message: '&5Llevas jugados 2 meses en Vaasgard!'
+    Name: playedtime_1440
+    DisplayName: '&5Nada mejor que hacer...'
     
 # When a distance is traveled by foot.
 DistanceFoot:
