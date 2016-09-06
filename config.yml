@@ -662,9 +662,29 @@ MusicDiscs:
 # When a player teleports with an enderpearl.
 EnderPearls:
   '10':
-    Message: 10 teleportations with ender pearls!
+    Message: Te teletransportaste 10 veces con perlas del End!
     Name: enderpearls_10
-    DisplayName: Teleport Man
+    DisplayName: '&9Y ahora no me ves'
+  '50':
+    Message: Te teletransportaste 50 veces con perlas del End!
+    Name: enderpearls_50
+    DisplayName: '&9Salto Quantico'
+  '200':
+    Message: Te teletransportaste 200 veces con perlas del End!
+    Name: enderpearls_200
+    DisplayName: '&9Shukan Ido'
+  '500':
+    Message: Te teletransportaste 500 veces con perlas del End!
+    Name: enderpearls_500
+    DisplayName: '&9Collar de Perlas'
+  '1000':
+    Message: '&0Te teletransportaste 1000 veces con perlas del End!'
+    Name: enderpearls_1000
+    DisplayName: '&9Rondador Nocturno'
+  '5000':
+    Message: '&5Te teletransportaste 5000 veces con perlas del End!'
+    Name: enderpearls_5000
+    DisplayName: '&5Nunca Ando!'
     
 #===========================OOO=OOO===========================#
 # VI-------------------------------------------------------VI #
