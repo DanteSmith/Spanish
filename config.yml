@@ -641,9 +641,33 @@ Taming:
 # When a potion is brewed.
 Brewing:
   '1':
-    Message: You brewed your first potion!
+    Message: Has elaborado tu primera poción!
     Name: brewing_1
-    DisplayName: Alchemist
+    DisplayName: La pócima!
+  '10':
+    Message: Has elaborado 10 pociones!
+    Name: brewing_10
+    DisplayName: '&4Química Básica!'
+  '30':
+    Message: Has elaborado 30 pociones!
+    Name: brewing_30
+    DisplayName: '&4Destilador!'
+  '100':
+    Message: Has elaborado 100 pociones!
+    Name: brewing_100
+    DisplayName: '&4El Alquimista!'
+  '250':
+    Message: Has elaborado 250 pociones!
+    Name: brewing_250
+    DisplayName: '&4Ley Seca!'
+  '500':
+    Message: '&6Has elaborado 500 pociones!'
+    Name: brewing_500
+    DisplayName: '&4Barman!'
+  '1000':
+    Message: '&5Has elaborado 1000 pociones!'
+    Name: brewing_1000
+    DisplayName: '&5Maestro de Alquimia!'
     
 # When a firework is launched.
 Fireworks:
