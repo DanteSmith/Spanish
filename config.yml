@@ -611,18 +611,54 @@ DistanceGliding:
 # When an item is dropped on the ground.
 ItemDrops:
   '15':
-    Message: You're killing the planet!
+    Message: Estas contaminando el mundo!
     Name: itemdrops_15
-    DisplayName: Polluter
+    DisplayName: Contaminador
+  '100':
+    Message: Has soltado 100 objetos!
+    Name: itemdrops_100
+    DisplayName: '&cMe Sobra!'
+  '500':
+    Message: Has soltado 500 objetos!
+    Name: itemdrops_500
+    DisplayName: '&cHagamos Espacio!'
+  '2000':
+    Message: Has soltado 2000 objetos!
+    Name: itemdrops_2000
+    DisplayName: '&cSindrome de Diogenes!'
+  '5000':
+    Message: Has soltado 5000 objetos!
+    Name: itemdrops_5000
+    DisplayName: '&cLimpieza General!'
+  '20000':
+    Message: Has soltado 20000 objetos!
+    Name: itemdrops_20000
+    DisplayName: '&cMundo Contaminado!'
+  '50000':
+    Message: Has soltado 50000 objetos!
+    Name: itemdrops_50000
+    DisplayName: '&cEfecto Invernadero!'
+  '100000':
+    Message: '&5Has soltado 100000 objetos!'
+    Name: itemdrops_100000
+    DisplayName: '&5CAmbio Climatico!'
     
 # When soil is plowed with a hoe.
 HoePlowings:
   '10':
     Message: Has arado 10 veces!
     Name: hoeplowings_10
-    DisplayName: Farmer
+    DisplayName: Agricultor
     Reward:                 
         Item: cookie 15
+  '50':
+    Message: Has arado 50 veces!
+    Name: hoeplowings_50
+    DisplayName: '&0Labrador'
+  '100':
+    Message: '&5Has arado 100 veces!'
+    Name: hoeplowings_100
+    DisplayName: '&5El Buey!
     
 # When bone meal is used to fertilise plants.
 Fertilising:
