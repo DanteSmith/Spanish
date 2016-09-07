@@ -634,9 +634,37 @@ Fertilising:
 # When an animal is tamed.
 Taming:
   '1':
-    Message: You tamed your first animal!
+    Message: Has domesticado a tu primer animal!
     Name: taming_1
-    DisplayName: Tamer
+    DisplayName: Domador
+  '10':
+    Message: Has domesticado a 10 animales!
+    Name: taming_10
+    DisplayName: '&dEl Pastor!'
+  '50':
+    Message: Has domesticado a 50 animales!
+    Name: taming_50
+    DisplayName: '&dVeterinario!'
+  '150':
+    Message: Has domesticado a 150 animales!
+    Name: taming_150
+    DisplayName: '&dMamporrero!'
+  '500':
+    Message: Has domesticado a 500 animales!
+    Name: taming_500
+    DisplayName: '&dQue Animalada!'
+  '1000':
+    Message: Has domesticado a 1000 animales!
+    Name: taming_1000
+    DisplayName: '&dSeñor de las Bestias!'
+  '5000':
+    Message: Has domesticado a 5000 animales!
+    Name: taming_5000
+    DisplayName: '&dArca de Noe!'
+  '10000':
+    Message: '&5Has domesticado a 10000 animales!'
+    Name: taming_10000
+    DisplayName: '&5Repoblación!'
     
 # When a potion is brewed.
 Brewing:
