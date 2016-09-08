@@ -368,22 +368,74 @@ Snowballs:
     
 # When an egg is thrown.  
 Eggs:
+  '1':
+    Message: '1 huevo lanzado!'
+    Name: eggs_1
+    DisplayName: ¿Truco o Trato?
+  '20':
+    Message: '20 huevos lanzados!'
+    Name: eggs_20
+    DisplayName: '&7Huevo de Avestruz!'
+  '100':
+    Message: '100 huevos lanzados!'
+    Name: eggs_100
+    DisplayName: '&7¿Que no hay Huevos?!'
+  '250':
+    Message: '250 huevos lanzados!'
+    Name: eggs_250
+    DisplayName: '&7Adicto a la tortilla!'
+  '500':
+    Message: '500 huevos lanzados!'
+    Name: eggs_500
+    DisplayName: '&7Huevón!'
   '1000':
-    Message: '1000 eggs thrown!'
+    Message: '1000 huevos lanzados!'
     Name: eggs_1000
-    DisplayName: Omelet Addict 
+    DisplayName: '&7Calimero!'
+  '3000':
+    Message: '&53000 huevos lanzados!'
+    Name: eggs_3000
+    DisplayName: '&5Huevo de Colón!'
     
 # When a fish is caught. 
 Fish:
   '1':
-    Message: The first time you caught a fish!
+    Message: Primer pez pescado!
     Name: fish_1
-    DisplayName: Time for Fish and Chips
+    DisplayName: Tiempo de Fish and Chips
+  '10':
+    Message: Has pescado 10 peces!
+    Name: fish_10
+    DisplayName: '&6Tirar la Caña!'
+  '25':
+    Message: Has pescado 25 peces!
+    Name: fish_25
+    DisplayName: '&6Pezqueñines!'
+  '50':
+    Message: Has pescado 50 peces!
+    Name: fish_50
+    DisplayName: '&6Sin Espinas!'
+  '100':
+    Message: Has pescado 100 peces!
+    Name: fish_100
+    DisplayName: '&6Anzuelo Chetado!'
+  '250':
+    Message: Has pescado 250 peces!
+    Name: fish_250
+    DisplayName: '&6Cebo Dopado!'
+  '500':
+    Message: Has pescado 500 peces!
+    Name: fish_500
+    DisplayName: '&6Buscando a &fN&6e&fm&6o!'
+  '1000':
+    Message: '&5Has pescado 1000 peces!'
+    Name: fish_1000
+    DisplayName: '&5Buscando a &1D&e&1o&er&1y!'
 
 # When a tool/armor/weapon is broken.  
 ItemBreaks:
   '1':
-    Message: You broke your favorite tool!
+    Message: Se te ha roto 1 item!
     Name: itembreaks_1
     DisplayName: '&4Clumsy Guy'
 
