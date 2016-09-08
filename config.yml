@@ -171,9 +171,33 @@ AsyncPooledRequestsSender: true
 # When a player connects during the day.
 Connections:
   '1':
-    Message: You connected to our server for the first time!
+    Message: Te has conectado al servidor por primera vez!
     Name: connect_1
-    DisplayName: Good Choice
+    DisplayName: '&5Buena Eelección'
+  '10':
+    Message: Te has conectado al servidor 10 veces!
+    Name: connect_10
+    DisplayName: '&5Buen Ritmo'
+  '25':
+    Message: Te has conectado al servidor 25 veces!
+    Name: connect_25
+    DisplayName: '&5Buena Eelección'
+  '50':
+    Message: Te has conectado al servidor 50 veces!
+    Name: connect_50
+    DisplayName: '&5Buena Feeling'
+  '100':
+    Message: Te has conectado al servidor 100 veces!
+    Name: connect_100
+    DisplayName: '&5En Matrix!'
+  '200':
+    Message: Te has conectado al servidor 2000 veces!
+    Name: connect_2000
+    DisplayName: '&5Conexiones Sinapticas'
+  '500':
+    Message: '&5Te has conectado al servidor 500 veces!'
+    Name: connect_500
+    DisplayName: '&5Entras Mas que Juegas!'
 
 # When a specific block is placed (specify material name, lower case).
 Places:  
@@ -286,7 +310,7 @@ Arrows:
 # When a snowball is thrown.  
 Snowballs:
   '1000':
-    Message: '1000 snowballs thrown. That''s the spirit!'
+    Message: 'Has lanzado 1000 bolas de nieve'
     Name: snowballs_1000
     DisplayName: Sueltalooo, sueltalooo! 
     
