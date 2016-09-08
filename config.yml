@@ -302,10 +302,34 @@ Deaths:
     
 # When an arrow is shot.
 Arrows:
+  '1':
+    Message: 'Has lanzado tu primera flecha!'
+    Name: arrows_1
+    DisplayName: Guillermo Tell!
   '50':
     Message: '50 flechas lanzadas!'
     Name: arrows_50
-    DisplayName: Flechas por todos lados
+    DisplayName: '&2Donde pongo el ojo...'
+  '200':
+    Message: '200 flechas lanzadas!'
+    Name: arrows_200
+    DisplayName: '&2Francotirador!'
+  '500':
+    Message: '500 flechas lanzadas!'
+    Name: arrows_500
+    DisplayName: '&2Robin Hood!'
+  '1000':
+    Message: '1000 flechas lanzadas!'
+    Name: arrows_1000
+    DisplayName: '&Ojo de Halcón!'
+  '5000':
+    Message: '5000 flechas lanzadas!'
+    Name: arrows_5000
+    DisplayName: '&2Flecha Verde!'
+  '10000':
+    Message: '&510000 flechas lanzadas!'
+    Name: arrows_10000
+    DisplayName: '&5Legolas!'
     
 # When a snowball is thrown.  
 Snowballs:
