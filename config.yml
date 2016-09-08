@@ -333,10 +333,38 @@ Arrows:
     
 # When a snowball is thrown.  
 Snowballs:
+  '1':
+    Message: ''&3Has lanzado tu primera bola de nieve'
+    Name: snowballs_1
+    DisplayName: '&eFrozen!'
+  '20':
+    Message: 'Has lanzado 20 bolas de nieve'
+    Name: snowballs_20
+    DisplayName: '&eSueltalooo, sueltalooo!'
+  '100':
+    Message: 'Has lanzado 100 bolas de nieve'
+    Name: snowballs_100
+    DisplayName: '&eMano Fria!'
+  '250':
+    Message: 'Has lanzado 250 bolas de nieve'
+    Name: snowballs_250
+    DisplayName: '&e-Iceman!'
+  '500':
+    Message: 'Has lanzado 1000 bolas de nieve'
+    Name: snowballs_1000
+    DisplayName: '&eParece que refresca...'
   '1000':
     Message: 'Has lanzado 1000 bolas de nieve'
     Name: snowballs_1000
-    DisplayName: Sueltalooo, sueltalooo! 
+    DisplayName: '&eWinter is Coming!'
+  '2000':
+    Message: 'Has lanzado 2000 bolas de nieve'
+    Name: snowballs_2000
+    DisplayName: '&eBlanca Navidad!'
+  '5000':
+    Message: '&5Has lanzado 5000 bolas de nieve'
+    Name: snowballs_5000
+    DisplayName: '&5La Gran Glaciacion!'
     
 # When an egg is thrown.  
 Eggs:
