@@ -786,7 +786,7 @@ HoePlowings:
   '100':
     Message: '&5Has arado 100 veces!'
     Name: hoeplowings_100
-    DisplayName: '&5El Buey!
+    DisplayName: '&5El Buey!'
     
 # When bone meal is used to fertilise plants.
 Fertilising:
