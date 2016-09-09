@@ -192,7 +192,7 @@ Connections:
     DisplayName: '&5En Matrix!'
   '200':
     Message: Te has conectado al servidor 2000 veces!
-    Name: connect_2000
+    Name: connect_200
     DisplayName: '&5Conexiones Sinapticas'
   '500':
     Message: '&5Te has conectado al servidor 500 veces!'
@@ -334,7 +334,7 @@ Arrows:
 # When a snowball is thrown.  
 Snowballs:
   '1':
-    Message: ''&3Has lanzado tu primera bola de nieve'
+    Message: '&3Has lanzado tu primera bola de nieve'
     Name: snowballs_1
     DisplayName: '&eFrozen!'
   '20':
@@ -348,10 +348,10 @@ Snowballs:
   '250':
     Message: 'Has lanzado 250 bolas de nieve'
     Name: snowballs_250
-    DisplayName: '&e-Iceman!'
+    DisplayName: '&eIceman!'
   '500':
-    Message: 'Has lanzado 1000 bolas de nieve'
-    Name: snowballs_1000
+    Message: 'Has lanzado 500 bolas de nieve'
+    Name: snowballs_500
     DisplayName: '&eParece que refresca...'
   '1000':
     Message: 'Has lanzado 1000 bolas de nieve'
