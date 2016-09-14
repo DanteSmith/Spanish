@@ -258,9 +258,58 @@ Kills:
 Crafts:
   diamond_sword:
     '1':
-      Message: The first time you crafted a blade!
+      Message: Primera espada de diamante!
       Name: craft_1_blade
-      DisplayName: Blacksmith Apprentice
+      DisplayName: Forjador de Diamante!
+      Reward:
+        Money: 2
+  diamond_sword:
+    '10':
+      Message: Diez espadas de diamante!
+      Name: craft_10_blade
+      DisplayName: Arsenal de Diamante!
+      Reward:
+        Money: 2
+  wooden_sword:
+    '1':
+      Message: Primera espada de madera!
+      Name: craft_1_blade
+      DisplayName: A palos!
+      Reward:
+        Money: 2
+  wooden_sword:
+    '10':
+      Message: Diez espadas de madera!
+      Name: craft_10_blade
+      DisplayName: Estacas para Vampiros!
+      Reward:
+        Money: 2
+  diamond_hoe:
+    '1':
+      Message: Primera azada de diamante!
+      Name: craft_1_hoe
+      DisplayName: ¿Era necesario?
+      Reward:
+        Money: 2
+  stick:
+    '10000':
+      Message: 10.000 palos!
+      Name: craft_10000_stick
+      DisplayName: Mikado!
+      Reward:
+        Money: 2
+  shield:
+    '1':
+      Message: Primer Escudo!
+      Name: craft_1_shield
+      DisplayName: Espartano!
+      Reward:
+        Money: 2
+  anvil:
+    '10':
+      Message: Has creado 10 yunkes!
+      Name: craft_10_anvil
+      DisplayName: Mmmmm, que duro!
       Reward:
         Money: 2
       
