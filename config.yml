@@ -260,56 +260,54 @@ Crafts:
     '1':
       Message: Primera espada de diamante!
       Name: craft_1_blade
-      DisplayName: Forjador de Diamante!
+      DisplayName: '&4Forjador de Diamante!'
       Reward:
         Money: 2
-  diamond_sword:
     '10':
       Message: Diez espadas de diamante!
       Name: craft_10_blade
-      DisplayName: Arsenal de Diamante!
+      DisplayName: '&4Arsenal de Diamante!'
       Reward:
         Money: 2
   wooden_sword:
     '1':
       Message: Primera espada de madera!
       Name: craft_1_blade
-      DisplayName: A palos!
+      DisplayName: '&4A palos!'
       Reward:
         Money: 2
-  wooden_sword:
     '10':
       Message: Diez espadas de madera!
       Name: craft_10_blade
-      DisplayName: Estacas para Vampiros!
+      DisplayName: '&4Estacas para Vampiros!'
       Reward:
         Money: 2
   diamond_hoe:
     '1':
       Message: Primera azada de diamante!
       Name: craft_1_hoe
-      DisplayName: ¿Era necesario?
+      DisplayName: '&4¿Era necesario?'
       Reward:
         Money: 2
   stick:
     '10000':
       Message: 10.000 palos!
       Name: craft_10000_stick
-      DisplayName: Mikado!
+      DisplayName: '&4Mikado!'
       Reward:
         Money: 2
   shield:
     '1':
       Message: Primer Escudo!
       Name: craft_1_shield
-      DisplayName: Espartano!
+      DisplayName: '&4Espartano!'
       Reward:
         Money: 2
   anvil:
     '10':
       Message: Has creado 10 yunkes!
       Name: craft_10_anvil
-      DisplayName: Mmmmm, que duro!
+      DisplayName: '&4Mmmmm, que duro!'
       Reward:
         Money: 2
       
