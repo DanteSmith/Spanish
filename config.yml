@@ -308,9 +308,143 @@ Breaks:
 Kills:
   zombie:
     '1':
-      Message: '&8The first time you killed a zombie!'
-      DisplayName: The Walking Dead
+      Message: '&8Has matado a tu primer zombie!'
+      DisplayName: Remuerto!
       Name: kills_1_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '20':
+      Message: '&8Has matado a 20 zombies!'
+      DisplayName: '&cCerrebro en el Menú!'
+      Name: kills_20_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '50':
+      Message: '&8Has matado a 50 zombies!'
+      DisplayName: '&cDesesperado!'
+      Name: kills_50_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '100':
+      Message: '&8Has matado a 100 zombies!'
+      DisplayName: '&cNo estaba muerto...'
+      Name: kills_100_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '250':
+      Message: '&8Has matado a 250 zombies!'
+      DisplayName: '&c...estaba de parranda!'
+      Name: kills_250_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '500':
+      Message: '&8Has matado a 500 zombies!'
+      DisplayName: '&cPlayers Vs Zombies'
+      Name: kills_500_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '1000':
+      Message: '&8Has matado a 1000 zombies!'
+      DisplayName: '&cAniquilador!'
+      Name: kills_1000_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '2500':
+      Message: '&8Has matado a 2500 zombies!'
+      DisplayName: '&cAzote de los Zombies!'
+      Name: kills_2500_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '5000':
+      Message: '&8Has matado a 5000 zombies!'
+      DisplayName: '&cMasacre!'
+      Name: kills_5000_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '10000':
+      Message: '&8Has matado a 10000 zombies!'
+      DisplayName: '&5The Walking Dead'
+      Name: kills_10000_zombie
+      Reward:
+        Money: 1         
+        Item: diamond 1
+  skeleton:
+    '1':
+      Message: '&8Has matado a tu primer esqueleto!'
+      DisplayName: Entre las Costillas!
+      Name: kills_1_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '20':
+      Message: '&8Has matado a 20 esqueletos!'
+      DisplayName: '&cNo hay carne en el Menú!'
+      Name: kills_20_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '50':
+      Message: '&8Has matado a 50 esqueletos!'
+      DisplayName: '&cRompiendo Huesos!'
+      Name: kills_50_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '100':
+      Message: '&8Has matado a 100 esqueletos!'
+      DisplayName: '&cFalta de Músculo!'
+      Name: kills_100_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '206':
+      Message: '&8Has matado a 206 esqueletos!'
+      DisplayName: '&cTodos los Huesos del Cuerpo!'
+      Name: kills_206_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '500':
+      Message: '&8Has matado a 500 esqueletos!'
+      DisplayName: '&cPlayers Vs Esqueletos'
+      Name: kills_500_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '1000':
+      Message: '&8Has matado a 1000 esqueletos!'
+      DisplayName: '&cExterminador!'
+      Name: kills_1000_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '2500':
+      Message: '&8Has matado a 2500 esqueletos!'
+      DisplayName: '&cAzote de los Esqueletos!'
+      Name: kills_2500_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '5000':
+      Message: '&8Has matado a 5000 esqueletos!'
+      DisplayName: '&cAniquilación!'
+      Name: kills_5000_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+    '10000':
+      Message: '&8Has matado a 10000 esqueletos!'
+      DisplayName: '&5Sobre una Montaña de Huesos'
+      Name: kills_10000_skeleton
       Reward:
         Money: 1         
         Item: diamond 1
