@@ -236,9 +236,16 @@ Breaks:
       DisplayName: Dark Oak Cutter
   stone:
     '1':
-      Message: '&1The first time you went mining!'
+      Message: '&1Primera vez que has minado!'
       Name: break_1_stone
-      DisplayName: Cobble!
+      DisplayName: Empieza la minería!
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
+        Command: give PLAYER 158 10; give PLAYER 126 5
+    '250':
+      Message: '&1Has minado 250 bloques de piedra!'
+      Name: break_250_stone
+      DisplayName: Hi-ho, hi-ho!
       # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
       Reward:
         Command: give PLAYER 158 10; give PLAYER 126 5
