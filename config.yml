@@ -770,9 +770,25 @@ Enchantments:
 # When a bed is entered. 
 Beds:  
   '5':
-    Message: You entered a bed 5 times!
+    Message: Has dormido 5 veces!
     Name: bed_5
-    DisplayName: Sleepy guy 
+    DisplayName: Somnoliento 
+  '15':
+    Message: Has dormido 15 veces!
+    Name: bed_15
+    DisplayName: '&4Con Morfeo!'
+  '25':
+    Message: Has dormido 25 veces!
+    Name: bed_25
+    DisplayName: '&4Bajo la Cama!'
+  '45':
+    Message: Has dormido 45 veces!
+    Name: bed_45
+    DisplayName: '&4Dormilón!'
+  '50':
+    Message: Has dormido 50 veces!
+    Name: bed_50
+    DisplayName: '&4Bella Durmiente!'
     
 # Maximum level reached.    
 MaxLevel:  
