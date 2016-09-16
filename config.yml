@@ -204,27 +204,25 @@ Places:
   smooth_brick:
     '500':
       # Used in /aach list when achievement not yet received.
-      Goal: 'Place 500 stone bricks.'
       # Description; displayed when receiving achievement, and in /aach book and /aach list.
-      Message: '&4You have placed 500 stone bricks!'
+      Message: '&4Pusiste 500 ladrillos de piedra!'
       # Database name, must also be used in /aach delete and /aach check.
       Name: place_500_smooth_brick
       # Name; displayed when receiving achievement, and in /aach book and /aach list.
-      DisplayName: 'Stone Brick Layer'
+      DisplayName: '&3Arquitecto!'
     '2500':
-      Goal: 'Place 2500 stone bricks.'
-      Message: '&4You have placed 2500 stone bricks!'
+      Message: '&4Pusiste 2500 ladrillos de piedra!'
       Name: place_2500_smooth_brick
-      DisplayName: 'Stone Brick Architect'
+      DisplayName: '&3Megaconstrucciones!'
   stone:
     '100':
-      Message: '&4One hundred placed stones!'
+      Message: '&4Pusiste 100 bloques de piedra!'
       Name: place_100_stone
-      DisplayName: Stone Addict
+      DisplayName: '&3Adicto a la Piedra!'
     '1000':
-      Message: '&4One thousand placed stones!'
+      Message: '&4Pusiste 1000 bloques de piedra!'
       Name: place_1000_stone
-      DisplayName: Stone God
+      DisplayName: '&3Dios de la Piedra!'
 
 # When a specific block is broken (specify material name, lower case).
 # Below, the notation log:1 means log item with metadata 1.
