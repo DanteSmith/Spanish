@@ -679,14 +679,58 @@ ItemBreaks:
   '1':
     Message: Se te ha roto 1 item!
     Name: itembreaks_1
-    DisplayName: '&4Clumsy Guy'
+    DisplayName: '&4Torpe!'
+  '5':
+    Message: Se te han roto 5 items!
+    Name: itembreaks_5
+    DisplayName: '&4Inútil!'
+  '10':
+    Message: Se te han roto 10 items!
+    Name: itembreaks_10
+    DisplayName: '&4Zopenco!'
+  '20':
+    Message: Se te han roto 20 items!
+    Name: itembreaks_20
+    DisplayName: '&4Desastre!'
+  '50':
+    Message: Se te han roto 50 items!
+    Name: itembreaks_50
+    DisplayName: '&4Incompetente!'
 
 # When an item is eaten (excludes potions and milk).
 EatenItems:
   '1':
-    Message: Just had a snack!
+    Message: Has comido un Tentempié!
     Name: eatenitems_1
-    DisplayName: First Snack  
+    DisplayName: El primer Tentempié  
+  '25':
+    Message: Has comido 25 piezas de comida!
+    Name: eatenitems_25
+    DisplayName: '&1A Dieta!'  
+  '100':
+    Message: Has comido 100 piezas de comida!
+    Name: eatenitems_100
+    DisplayName: '&1Fin de la Dieta!'  
+  '250':
+    Message: Has comido 250 piezas de comida!
+    Name: eatenitems_250
+    DisplayName: '&1McDonals!'  
+  '500':
+    Message: Has comido 500 piezas de comida!
+    Name: eatenitems_500
+    DisplayName: '&1Más bueno que el Pan!'  
+  '1000':
+    Message: Has comido 1000 piezas de comida!
+    Name: eatenitems_1000
+    DisplayName: '&1Haciendo la Digestión!'  
+  '2500':
+    Message: Has comido 2500 piezas de comida!
+    Name: eatenitems_2500
+    DisplayName: '&1Gran Banquete!'  
+  '5000':
+    Message: Has comido 5000 piezas de comida!
+    Name: eatenitems_5000
+    DisplayName: '&1Glotón!'  
     
 # When a sheep is sheared.
 Shear:
