@@ -229,26 +229,82 @@ Places:
 # When a specific block is broken (specify material name, lower case).
 # Below, the notation log:1 means log item with metadata 1.
 Breaks: 
-  log:1:
-    '100':
-      Message: '&2You have cut dark oak 100 logs!'
-      Name: break_1_log1
-      DisplayName: Dark Oak Cutter
+  log:
+    '5':
+      Message: '&2Has cortado 5 troncos!'
+      Name: break_5_log
+      DisplayName: '&dMadera de Campeón!'
+    '50':
+      Message: '&2Has cortado 50 troncos!'
+      Name: break_50_log
+      DisplayName: '&dPájaro Carpintero!'
+    '150':
+      Message: '&2Has cortado 150 troncos!'
+      Name: break_150_log
+      DisplayName: '&dCastor!'
+    '500':
+      Message: '&2Has cortado 500 troncos!'
+      Name: break_500_log
+      DisplayName: '&dEl Cerdito Mediano!'
+    '1000':
+      Message: '&2Has cortado 1000 troncos!'
+      Name: break_1000_log
+      DisplayName: '&dAstillero!'
+    '2500':
+      Message: '&2Has cortado 2500 troncos!'
+      Name: break_2500_log
+      DisplayName: '&dMás madera! Esto es la guerra!'
+    '5000':
+      Message: '&2Has cortado 5000 troncos!'
+      Name: break_5000_log
+      DisplayName: '&dLa Termita!'
+    '10000':
+      Message: '&2Has cortado 10000 troncos!'
+      Name: break_10000_log
+      DisplayName: '&5El Vasco!'
   stone:
     '1':
       Message: '&1Primera vez que has minado!'
       Name: break_1_stone
-      DisplayName: Empieza la minería!
+      DisplayName: '&2Empieza la minería!'
       # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
       Reward:
-        Command: give PLAYER 158 10; give PLAYER 126 5
     '250':
       Message: '&1Has minado 250 bloques de piedra!'
       Name: break_250_stone
-      DisplayName: Hi-ho, hi-ho!
+      DisplayName: '&2Hi-ho, hi-ho!'
       # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
       Reward:
-        Command: give PLAYER 158 10; give PLAYER 126 5
+    '1000':
+      Message: '&1Has minado 1000 bloques de piedra!'
+      Name: break_1000_stone
+      DisplayName: '&2Piedra gana a Papel!'
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
+    '2500':
+      Message: '&1Has minado 2500 bloques de piedra!'
+      Name: break_2500_stone
+      DisplayName: '&2Muy profundo!'
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
+    '10000':
+      Message: '&1Has minado 10000 bloques de piedra!'
+      Name: break_10000_stone
+      DisplayName: '&2El Rey de la Piedra!'
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
+    '25000':
+      Message: '&1Has minado 25000 bloques de piedra!'
+      Name: break_25000_stone
+      DisplayName: '&2Vida Bajo Tierra!'
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
+    '50000':
+      Message: '&1Has minado 50000 bloques de piedra!'
+      Name: break_50000_stone
+      DisplayName: '&5Viaje al Centro de la Tierra!'
+      # Use semicolons for multiple command rewards. PLAYER will be replaced by player's name.
+      Reward:
               
 # When a specific mob is killed (specify an entity name or poweredcreeper or player, lower case).
 Kills:
