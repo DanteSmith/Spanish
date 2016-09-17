@@ -742,16 +742,52 @@ Shear:
 # When a cow is milked.
 Milk:
   '1':
-    Message: Just milked a cow!
+    Message: Acabas de ordeñar a una vaca!
     Name: milk_1
-    DisplayName: First Milk    
+    DisplayName: '&dPrimera Leche!'
+  '10':
+    Message: Has ordeñado 10 veces!
+    Name: milk_10
+    DisplayName: '&dDame tu leche!'
+  '25':
+    Message: Has ordeñado 25 veces!
+    Name: milk_25
+    DisplayName: '&dLa Leche!'
+  '50':
+    Message: Has ordeñado 50 veces!
+    Name: milk_50
+    DisplayName: '&dHe comprado leche xD'
+  '100':
+    Message: Has ordeñado 100 veces!
+    Name: milk_100
+    DisplayName: '&dCentral Lechera Vaasgardiana!'   
     
 # When a trade with a villager is made.
 Trades:
   '1':
-    Message: Doing business with your first villager!
+    Message: Has comerciado con un aldeano!
     Name: trades_1
-    DisplayName: First Trade    
+    DisplayName: Comerciante Novato
+  '10':
+    Message: Has comerciado 10 veces!
+    Name: trades_10
+    DisplayName: '&22x1!'
+  '25':
+    Message: Has comerciado 25 veces!
+    Name: trades_25
+    DisplayName: '&2El Comerciante!'
+  '50':
+    Message: Has comerciado 50 veces!
+    Name: trades_50
+    DisplayName: '&2A mitad de Precio!'
+  '100':
+    Message: Has comerciado 100 veces!
+    Name: trades_100
+    DisplayName: '&2Las Rebajas!'
+  '250':
+    Message: '&5Has comerciado 250 veces!'
+    Name: trades_250
+    DisplayName: '&5Black Friday!'   
     
 # When an anvil is used.
 AnvilsUsed:
