@@ -820,16 +820,36 @@ Trades:
 # When an anvil is used.
 AnvilsUsed:
   '1':
-    Message: You just repaired your first item!
+    Message: Acabas de reparar tu primer item!
     Name: anvilsused_1
-    DisplayName: First Repair 
+    DisplayName: Primera Reparación 
+  '10':
+    Message: Has reparado 10 items!
+    Name: anvilsused_10
+    DisplayName: '&6Primera Reparación!'
     
 # When an enchantment is performed.
 Enchantments:
   '5':
-    Message: 5 objects enchanted!
+    Message: 5 objetos encantados!
     Name: enchantments_5
-    DisplayName: '&5Wizard'
+    DisplayName: '&5Mago'
+  '15':
+    Message: 15 objetos encantados!
+    Name: enchantments_15
+    DisplayName: '&5Artes Oscuras!'
+  '30':
+    Message: 30 objetos encantados!
+    Name: enchantments_30
+    DisplayName: '&5Chetando Objetos!'
+  '50':
+    Message: 50 objetos encantados!
+    Name: enchantments_50
+    DisplayName: '&5Encantado de Conocerme!'
+  '100':
+    Message: 100 objetos encantados!
+    Name: enchantments_100
+    DisplayName: '&5Mago!'
     
 # When a bed is entered. 
 Beds:  
