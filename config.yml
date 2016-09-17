@@ -734,10 +734,38 @@ EatenItems:
     
 # When a sheep is sheared.
 Shear:
+  '10':
+    Message: 10 ovejas esquiladas!
+    Name: shear_10
+    DisplayName: '&1Mmmmm qué suave!'
+  '25':
+    Message: 25 ovejas esquiladas!
+    Name: shear_25
+    DisplayName: '&1Contando ovejas!'
+  '50':
+    Message: 50 ovejas esquiladas!
+    Name: shear_50
+    DisplayName: '&1El Rebaño Helado!'
   '100':
-    Message: 100 sheep sheared!
+    Message: 100 ovejas esquiladas!
     Name: shear_100
-    DisplayName: '&1Wool Addict'
+    DisplayName: '&1Esquilator!'
+  '250':
+    Message: 250 ovejas esquiladas!
+    Name: shear_250
+    DisplayName: '&1Adicto a la Lana!'
+  '500':
+    Message: 500 ovejas esquiladas!
+    Name: shear_500
+    DisplayName: '&1Nacido para Esquilar!'
+  '1000':
+    Message: 1000 ovejas esquiladas!
+    Name: shear_1000
+    DisplayName: '&1La oveja Dolly!'
+  '2500':
+    Message: 2500 ovejas esquiladas!
+    Name: shear_2500
+    DisplayName: '&1Encoge al labarse!'
     
 # When a cow is milked.
 Milk:
