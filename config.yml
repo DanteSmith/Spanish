@@ -1397,9 +1397,9 @@ MultiCommand: true
 # yourAch1 achievement to PLAYER. The /aach give command does NOT work with other achievements.
 Commands:
   yourAch1:
-    Message: You took part in the special event!
+    Message: Has participado en un evento especial!
     Name: yourAch1
-    DisplayName: Special Event Achievement!
+    DisplayName: '&5Logro del Evento Especial!'
     
 #===========================OOOOOOO===========================#
 # VII-----------------------------------------------------VII #
