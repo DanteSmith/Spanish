@@ -448,6 +448,22 @@ Kills:
       Reward:
         Money: 1         
         Item: diamond 1
+  bat:
+    '20':
+      Message: '&8Has matado a 20 murcielagos!'
+      DisplayName: '&8El Joker!'
+      Name: kills_20_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
+  ghast:
+    '15':
+      Message: '&8Has matado a 15 ghasts!'
+      DisplayName: '&8Ghastbusters!'
+      Name: kills_15_skeleton
+      Reward:
+        Money: 1         
+        Item: diamond 1
           
 # When a specific item is crafted (specify material name, lower case).
 Crafts:
@@ -826,7 +842,23 @@ AnvilsUsed:
   '10':
     Message: Has reparado 10 items!
     Name: anvilsused_10
-    DisplayName: '&6Primera Reparación!'
+    DisplayName: '&6Herrero!'
+  '25':
+    Message: Has reparado 25 items!
+    Name: anvilsused_25
+    DisplayName: '&6Como nuevo!'
+  '50':
+    Message: Has reparado 50 items!
+    Name: anvilsused_50
+    DisplayName: '&6Un Chapuzas en Casa!'
+  '100':
+    Message: Has reparado 100 items!
+    Name: anvilsused_100
+    DisplayName: '&6MacGyver!'
+  '250':
+    Message: Has reparado 250 items!
+    Name: anvilsused_250
+    DisplayName: '&6El Equipo A!'
     
 # When an enchantment is performed.
 Enchantments:
